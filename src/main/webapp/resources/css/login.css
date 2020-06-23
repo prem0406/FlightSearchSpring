@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+#login {
+	margin: 0 auto;
+	width: 373px;
+	margin-top: 38px;
+	/* margin-bottom: 38px; */
+}
+
+#field-username {
+	size: 30px;
+	margin-left: 10px;
+}
+
+#field-password {
+	margin-left: 10px;
+}
+
+#btn-submit {
+	width: 78px;
+	float: right;
+	margin-top: 5px;
+}

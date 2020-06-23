@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+.component-type1 {
+	width: 400px;
+	float: left;
+}
+
+.component-type2 {
+	width: 400px;
+}
+
+#content-wrapper {
+	width: 770px;
+	margin: 0 auto;
+}
+
+.error {
+	color: #ff0000;
+	margin: 0 auto;
+	width: 311px;
+}
+
+.errorblock {
+	color: #000;
+	background-color: #ffEEEE;
+	border: 3px solid #ff0000;
+	padding: 8px;
+	margin: 16px;
+}
+
+.flight-table-cell-header {
+	width: 100px;
+	margin: 0 auto;
+	font-size: 16px;
+}
+
+.flight-table-cell {
+	width: 100px;
+	margin: 0 auto;
+	/* padding: 5px; */
+	font-size: 18px;
+}
+
+.main-title {
+	font-size: 25px;
+	width: 115px;
+	margin: 0 auto;
+	font-family: serif;
+}

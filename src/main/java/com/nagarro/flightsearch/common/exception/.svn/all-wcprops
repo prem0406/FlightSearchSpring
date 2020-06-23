@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/JavaTraining/!svn/ver/1272/rahulbokolia/FlightSearchSpring/src/main/java/com/nagarro/flightsearch/common/exception
+END
+FlightException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/JavaTraining/!svn/ver/1272/rahulbokolia/FlightSearchSpring/src/main/java/com/nagarro/flightsearch/common/exception/FlightException.java
+END
+InvalidArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/JavaTraining/!svn/ver/1272/rahulbokolia/FlightSearchSpring/src/main/java/com/nagarro/flightsearch/common/exception/InvalidArgumentException.java
+END

@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+
+table {
+	border-collapse: collapse;
+	border: 1px solid green;
+	margin: 0 auto;
+}
+
+.right-aligned {
+	text-align: right;
+}
+
+.center-aligned {
+	text-align: center;
+}
+
+th {
+	background-color: #80C4FA;
+	color: white;
+}
+
+#flight-result tr.alt td {
+	color: #000000;
+	background-color: #EAF2D3;
+}
+
+#no-result {
+	color: #000000;
+	background-color: #EAF2D3;
+	text-align: center;
+}
+
+#btnSearchMore {
+	width: 81px;
+	height: 23px;
+	float: right;
+	margin-right: 29px;
+	font-size: 10px
+}
+
+#separator {
+	width: 5px;
+	height: 40px;
+}

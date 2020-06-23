@@ -1,0 +1,9 @@
+NotNull.login.username = Username is required!
+NotEmpty.login.username = Username is required!
+NotNull.login.password = Password is required!
+NotEmpty.login.password = Password is required!
+
+NotEmpty.flightSearchParams.departureLocation = Departure Location is required!
+NotEmpty.flightSearchParams.arrivalLocation = Arrival Location is required!
+NotEmpty.flightSearchParams.flightClass = Flight Class is required!
+NotEmpty.flightSearchParams.outputPreference = O/T Preference is required!
